@@ -2,10 +2,16 @@
 //  Score.pde
 //  Minesweeper
 //
+<<<<<<< HEAD
 //  Created by Wilson Mak on 4/26/18.
 //
 
 
+=======
+//  Created by Wilson Mak on 5/17/2018.
+//
+
+>>>>>>> 6db2a2fd5d3a869907405a536855411770b65c4d
 class Score extends Codable { //A type to store both name and score
   String name;
   int time;
